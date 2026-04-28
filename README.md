@@ -5,13 +5,13 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate developer and tech enthusiast, actively building and learning in the world of software development. I enjoy working on diverse projects and expanding my skill set through hands-on experience.
+I'm a new developer, actively building and learning in the world of backend engineering. I start my journey in January this year after my graduation since I finally get to be free. I'm currently placed as an HNG intern working on diverse projects and expanding my skill set through hands-on experience. Check out [how far](https://github.com/Zubbee18/ubiquitous-chainsaw) I've gone moving from stage 0 hopefully to stage 10 as a finalist. I'm currently in stage 3.
 
-- 🌱 Currently exploring various technologies and frameworks
+- 🌱 Currently learning TypeScript to migrate from JavaScript
 - 💼 Open to exciting opportunities and collaborations
-- 🎯 Focus: Creating impactful solutions through code
-- 📅 Coding journey since: **2025**
-- 🐦 Twitter: [@Zubbee_](https://twitter.com/Zubbee_)
+- 🎯 Focus: Learning as much as I can through open source, real world projects in internships and fellowships
+- 📅 Coding journey since: **2026**
+- 🐦 Twitter: [@Zubbee_](https://x.com/intent/user?screen_name=Zubbee_)
 
 ## 🛠️ Tech Stack & Tools
 
@@ -20,13 +20,13 @@ const skills = {
   languages: ["JavaScript", "Python", "HTML/CSS"],
   frameworks: ["Node.js", "Express"],
   tools: ["Git", "VS Code", "Terminal"],
-  interests: ["Web Development", "API Development", "Problem Solving"]
+  experience: ["Web Development", "API Development", "Problem Solving"]
 };
 ```
 
 ## 📊 GitHub Stats
 
-![Zubbee18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zubbee18&show_icons=true&theme=radical)
+![Zubbee18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zubbee18)
 
 ## 🔥 Featured Projects
 
