@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a new developer, actively building and learning in the world of backend engineering. I start my journey in January this year after my graduation since I finally get to be free. I'm currently placed as an HNG intern working on diverse projects and expanding my skill set through hands-on experience. Check out [how far](https://github.com/Zubbee18/ubiquitous-chainsaw) I've gone moving from stage 0 hopefully to stage 10 as a finalist. I'm currently in stage 3.
+I'm a new developer, actively building and learning in the world of backend engineering. I start my journey in January this year after my graduation since I finally get to be free. I'm currently placed as an HNG intern working on diverse projects and expanding my skill set through hands-on experience. Check out [how far](https://github.com/Zubbee18/ubiquitous-chainsaw) I've gone moving from stage 0 hopefully to stage 10 as a finalist. I'm currently in stage 6.
 
 - 🌱 Currently learning TypeScript to migrate from JavaScript
 - 💼 Open to exciting opportunities and collaborations
