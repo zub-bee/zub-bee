@@ -1,6 +1,5 @@
 # Hi there, I'm Deborah Anyachukwu! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Zubbee18?label=Followers&style=flat-square)](https://github.com/Zubbee18)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Zubbee_?style=social)](https://twitter.com/Zubbee_)
 
 ## 👩‍💻 About Me
@@ -18,15 +17,11 @@ I'm a new developer, actively building and learning in the world of backend engi
 ```javascript
 const skills = {
   languages: ["JavaScript", "Python", "HTML/CSS"],
-  frameworks: ["Node.js", "Express"],
+  frameworks: ["Node.js", "Express", "NestJS"],
   tools: ["Git", "VS Code", "Terminal"],
   experience: ["Web Development", "API Development", "Problem Solving"]
 };
 ```
-
-## 📊 GitHub Stats
-
-![Zubbee18's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zubbee18)
 
 ## 🔥 Featured Projects
 
@@ -47,12 +42,6 @@ Here are some of my notable projects:
 
 - GitHub: [@Zubbee18](https://github.com/Zubbee18)
 - Twitter: [@Zubbee_](https://twitter.com/Zubbee_)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zubbee18&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
 
 <div align="center">
   
