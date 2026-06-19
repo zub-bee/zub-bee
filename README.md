@@ -4,13 +4,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a new developer, actively building and learning in the world of backend engineering. I start my journey in January this year after my graduation since I finally get to be free. I'm currently placed as an HNG intern working on diverse projects and expanding my skill set through [hands-on experience](https://hng-portfolio-ashy.vercel.app).
-
-- 🌱 Currently learning TypeScript to migrate from JavaScript
-- 💼 Open to exciting opportunities and collaborations
-- 🎯 Focus: Learning as much as I can through open source, real world projects in internships and fellowships
-- 📅 Coding journey since: **2026**
-- 🐦 Twitter: [@Zubbee_](https://x.com/intent/user?screen_name=Zubbee_)
+I'm a new developer, actively building and learning in the world of backend engineering. I start my journey in January this year after my graduation since I finally get to be free. I was recently placed as an HNG intern working on diverse projects and expanding my skill set through hands-on experience. Learn more about my work during the internship [here](https://zubbee.vercel.app).
 
 ## 🛠️ Tech Stack & Tools
 
