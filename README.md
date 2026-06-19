@@ -2,9 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Zubbee_?style=social)](https://twitter.com/Zubbee_)
 
-## 👩‍💻 About Me
+## 👩‍💻 My Work So Far
 
-I'm a new developer, actively building and learning in the world of backend engineering. I start my journey in January this year after my graduation since I finally get to be free. I was recently placed as an HNG intern working on diverse projects and expanding my skill set through hands-on experience. Learn more about my work during the internship [here](https://zubbee.vercel.app).
+I'm a new developer, actively building and learning in backend engineering. I was recently placed as an HNG intern working on diverse projects and expanding my skill set through hands-on experience. Learn more about my work during the internship [here](https://zubbee.vercel.app).
 
 ## 🛠️ Tech Stack & Tools
 
